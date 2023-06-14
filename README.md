@@ -102,16 +102,15 @@ ep_robot.close()
 
 
 ## MobileRobot Movement Video:
-## S
+## INITIAL POSITION:
+![STARTING POINT](https://github.com/abinayasangeetha/mobilerobot-openloopcontrol/assets/119393675/22963d5c-1e81-456e-9469-a274d19c6e7d)
 
-Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+## FINAL POSITION:
 
-<br/>
-<br/>
-<br/>
-<br/>
+
+
+
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
